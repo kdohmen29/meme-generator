@@ -1,6 +1,6 @@
 got to:
 
-Heroku Site https://git.heroku.com/calm-atoll-40146.git
+Heroku Site https://calm-atoll-40146.herokuapp.com/
 
 to see the app deployed
 
