@@ -1,3 +1,11 @@
+got to:
+
+Heroku Site https://git.heroku.com/calm-atoll-40146.git
+
+to see the app deployed
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
